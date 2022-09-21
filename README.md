@@ -1,12 +1,12 @@
 # Trabalho-ADS-Food
 
-Pablo Vinicius Onofre
+Pablo Onofre
 
-Matheus
+Matheus Andretti
 
-Nicolas Antunes
+Nicolas Martini
 
-Felipe
+Felipe Ribeiro
 
 
 Tabela de povoamento:
